@@ -3,3 +3,6 @@
 ``` javascript
 var myVar = "I loveee Erik GUI!";
 ```
+- [ ] Turn on AArik GUYYY
+- [ ] Outline AEric GEY
+- [ ] Introduce myself to AORIK GEsicki
